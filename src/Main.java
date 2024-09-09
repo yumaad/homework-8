@@ -62,7 +62,7 @@ public class Main {
 
         // task #4
         System.out.println();
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < array1.length; i++) {
             if (array1[i] % 2 == 1)
             {
                 array1[i]=  array1[i] + 1;
